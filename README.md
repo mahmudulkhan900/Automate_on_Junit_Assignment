@@ -22,4 +22,6 @@ This assignment implements the automation of filling up a webform.
 - go to terminal and give command "gradle clean test"
 
 ## Test Summary
-![Screenshot (706)](https://github.com/siratulmustakim/Assignment_on_JUnit/assets/46200508/6cdb7050-1b8b-4e7e-b2a4-d9a4d9f4c7d1)
+
+![Ss](https://github.com/mahmudulkhan900/Automate_on_Junit_Assignment/assets/60164456/5c7f6dc5-b7bc-4d8a-affb-f5a973092ab5)
+
